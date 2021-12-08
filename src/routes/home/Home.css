@@ -1,0 +1,7 @@
+.todo__item {
+  color: red;
+}
+
+.todo__item_completed {
+  color: green;
+}
