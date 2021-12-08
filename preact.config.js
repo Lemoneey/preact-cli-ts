@@ -10,6 +10,6 @@
  * @param {Record<string, unknown>} options - this is mainly relevant for plugins (will always be empty in the config), default to an empty object
  */
 export default (config, env, helpers, options) => {
-	const rules = helpers.getRules(config);
-	console.log(rules)
+	// const rules = helpers.getRules(config);
+	// console.log(rules)
 };
